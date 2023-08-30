@@ -2,6 +2,9 @@
 /dist
 /node_modules
 /.env
+/apps/auth/.env
+/apps/reservations/.env
+/apps/payments/.env
 
 # Logs
 logs
